@@ -1,0 +1,784 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pattera-saratov.ru" resolutions="1x" timestamp="1506952614447">
+  <folder name="css">
+    <file name="site_global.css" crc="4185260426"/>
+    <file name="master_a-master.css" crc="31304530" ref="holidays:cleaning:index:clothes:contacts:cars:kitchen:about:journey"/>
+    <file name="holidays.css" crc="466367466" ref="holidays"/>
+    <file name="cleaning.css" crc="269591084" ref="cleaning"/>
+    <file name="index.css" crc="451674032" ref="index"/>
+    <file name="clothes.css" crc="425496619" ref="clothes"/>
+    <file name="contacts.css" crc="427408387" ref="contacts"/>
+    <file name="cars.css" crc="4150018045" ref="cars"/>
+    <file name="kitchen.css" crc="3824412284" ref="kitchen"/>
+    <file name="about.css" crc="253562744" ref="about"/>
+    <file name="journey.css" crc="4005919065" ref="journey"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="museutils.js" crc="17924269" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="museconfig.js" crc="278381782" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="webpro.js" crc="416662029" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="touchswipe.js" crc="432264157" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:kitchen:holidays:cleaning:cars:journey:clothes"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u908.php" crc="3947283791" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="require.js" crc="3861931657" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="form-u26703.php" crc="32674411" ref="contacts"/>
+  </folder>
+  <folder name="images">
+    <file name="0000111913_chn29bqq.jpg" crc="350848402" seo="true" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about">
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="1234.jpg" crc="447130875" seo="true" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about">
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="geli-a-ne-poroshki-naibolee-podhodyat-pri-rabote-m.jpg" crc="105303507" seo="true" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about">
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="8298ac099d3a12d31deb686f9dd4d8f8.jpg" crc="632706" seo="true" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about">
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="1461151038609.jpg" crc="273454756" seo="true" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about">
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about"/>
+    <file name="099-delivery-truck.png" crc="62134547" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="066-placeholder.png" crc="69230343" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002-briefcase.png" crc="4225256508" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arenda-sklada-arenda-sklada-v-minske-6.jpg" crc="260105034" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner.jpg" crc="168036613" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index:contacts">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index:contacts">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index:contacts">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="logo.png" crc="3851865179" seo="true" ref="index:kitchen:holidays:cleaning:cars:journey:clothes:contacts:about">
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="holidays" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="cleaning" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="journey" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="kitchen" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="clothes" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="cars" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="019-chef.png" crc="369143866" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="014-dinner.png" crc="199243282" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="005-car.png" crc="367789720" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="022-cleaning-spray-bottle.png" crc="4130831000" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="007-airplane.png" crc="93472102" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="012-hanger.png" crc="4254330221" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3131201.png" crc="4216529618" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003-vk.png" crc="314351687" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="снимок1.jpg" crc="346932819" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок5.jpg" crc="4124670353" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок7.jpg" crc="278923906" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок73.jpg" crc="464728244" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок72.jpg" crc="58412497" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок6.jpg" crc="511015366" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок11.jpg" crc="485746434" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок12.jpg" crc="178201159" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок13.jpg" crc="468942122" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок14.jpg" crc="3961045148" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок16.jpg" crc="533052594" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок17.jpg" crc="4211370679" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок10.jpg" crc="250582048" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок22.jpg" crc="63036254" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок76.jpg" crc="150340213" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок77.jpg" crc="234438229" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок23.jpg" crc="3889262979" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок24.jpg" crc="483375890" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок25.jpg" crc="4109551590" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок26.jpg" crc="3901612569" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок27.jpg" crc="398245360" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок28.jpg" crc="4169883403" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок33.jpg" crc="3802228031" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок34.jpg" crc="4158817171" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок29.jpg" crc="4003540139" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок30.jpg" crc="112324839" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок31.jpg" crc="23682449" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок43.jpg" crc="417824854" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок44.jpg" crc="3853163664" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок45.jpg" crc="504404011" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок47.jpg" crc="227015392" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок46.jpg" crc="3874970143" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок48.jpg" crc="3996443524" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок39.jpg" crc="4264823270" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок50.jpg" crc="4262495017" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок53.jpg" crc="4136232502" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок78.jpg" crc="385778598" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок79.jpg" crc="374709917" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок51.jpg" crc="4134176233" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок80.jpg" crc="417472707" seo="true" ref="kitchen">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="papersco-va91-wallpaper-triangle-fall-blue-pattern-25-wallpaper.jpg" crc="136580623" ref="kitchen:cleaning:cars:journey:clothes">
+      <caption webpage="kitchen" alt=""/>
+    </file>
+    <file name="снимок58.jpg" crc="375145325" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок59.jpg" crc="4216499666" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок61.jpg" crc="4241259213" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок184.jpg" crc="4019174547" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок64.jpg" crc="3819138249" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок65.jpg" crc="457525398" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок62.jpg" crc="269035320" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок85.jpg" crc="4061298426" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок86.jpg" crc="533272759" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок87.jpg" crc="296972145" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок105.jpg" crc="4089988058" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок106.jpg" crc="152635017" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок101.jpg" crc="3973449587" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок102.jpg" crc="4206570036" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок100.jpg" crc="511568421" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок108.jpg" crc="511334900" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок109.jpg" crc="4138905881" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок110.jpg" crc="441623541" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок111.jpg" crc="62110468" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок107.jpg" crc="4015890189" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок94.jpg" crc="3530709" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок95.jpg" crc="4710285" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок96.jpg" crc="113724110" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок97.jpg" crc="359437845" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок98.jpg" crc="6286163" seo="true" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="parallax-background.jpg" crc="3904569462" ref="holidays">
+      <caption webpage="holidays" alt=""/>
+    </file>
+    <file name="снимок120.jpg" crc="3940204390" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок121.jpg" crc="3790131996" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок123.jpg" crc="4259202709" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок124.jpg" crc="4160400961" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок126.jpg" crc="304084886" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок127.jpg" crc="417030308" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок125.jpg" crc="446664188" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок129.jpg" crc="74869011" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок130.jpg" crc="4246612701" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок131.jpg" crc="4182755977" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок132.jpg" crc="3976072782" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок128.jpg" crc="368568520" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок138.jpg" crc="32433131" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок135.jpg" crc="3859309736" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок136.jpg" crc="150918808" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок137.jpg" crc="4218905131" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок134.jpg" crc="3925122220" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок139.jpg" crc="271817370" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок143.jpg" crc="3758688896" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок144.jpg" crc="483152813" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок145.jpg" crc="59614725" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок146.jpg" crc="4279346964" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок147.jpg" crc="4088544870" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок150.jpg" crc="276094391" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок151.jpg" crc="143701909" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок152.jpg" crc="3907335" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок153.jpg" crc="83783010" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок159.jpg" crc="136332945" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок160.jpg" crc="3773643189" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок161.jpg" crc="3803899022" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок162.jpg" crc="398752068" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок163.jpg" crc="427988919" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок165.jpg" crc="4285116241" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок164.jpg" crc="202864995" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок179.jpg" crc="4110084869" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок181.jpg" crc="373780765" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок180.jpg" crc="99717542" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок182.jpg" crc="4148653037" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок185.jpg" crc="4102200212" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок186.jpg" crc="4010683718" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок187.jpg" crc="4096282296" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок188.jpg" crc="333985739" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок190.jpg" crc="4255220572" seo="true" ref="cleaning">
+      <caption webpage="cleaning" alt=""/>
+    </file>
+    <file name="снимок212.jpg" crc="313697455" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок201.jpg" crc="4212452416" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок202.jpg" crc="3980457430" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок203.jpg" crc="182970397" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок204.jpg" crc="4186192428" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок205.jpg" crc="315304521" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок206.jpg" crc="4256941066" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок208.jpg" crc="442891202" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок209.jpg" crc="345066561" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок207.jpg" crc="46107972" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок210.jpg" crc="4042812785" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок211.jpg" crc="4134491102" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок214.jpg" crc="217587235" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок215.jpg" crc="186928850" seo="true" ref="cars">
+      <caption webpage="cars" alt=""/>
+    </file>
+    <file name="снимок300.jpg" crc="4012161650" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок301.jpg" crc="132180420" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок303.jpg" crc="377382071" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок302.jpg" crc="438674257" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок307.jpg" crc="293497253" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок304.jpg" crc="402423089" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок305.jpg" crc="321815034" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок308.jpg" crc="4132788637" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок306.jpg" crc="68885108" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок309.jpg" crc="99228294" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок310.jpg" crc="529442554" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок311.jpg" crc="4040517102" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок312.jpg" crc="3993518688" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок322.jpg" crc="4243782356" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок314.jpg" crc="3762940623" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок315.jpg" crc="420014191" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок316.jpg" crc="3808173127" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок317.jpg" crc="3836698365" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок320.jpg" crc="316637259" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок321.jpg" crc="16155187" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок318.jpg" crc="3965513364" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок319.jpg" crc="316343956" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок313.jpg" crc="3787409062" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок325.jpg" crc="4278779083" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок327.jpg" crc="99193968" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок328.jpg" crc="152210015" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок326.jpg" crc="200113983" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок329.jpg" crc="3827892926" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок330.jpg" crc="3856005600" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок331.jpg" crc="4136371530" seo="true" ref="journey">
+      <caption webpage="journey" alt=""/>
+    </file>
+    <file name="снимок400.jpg" crc="4088168665" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок401.jpg" crc="460669264" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок402.jpg" crc="18440191" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок403.jpg" crc="333242749" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок404.jpg" crc="22166964" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок405.jpg" crc="4051036706" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок406.jpg" crc="3996085324" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок407.jpg" crc="3958667904" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок409.jpg" crc="399956981" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок408.jpg" crc="94625898" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок410.jpg" crc="234219927" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок411.jpg" crc="410537940" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок412.jpg" crc="4084217865" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок414.jpg" crc="531819888" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок415.jpg" crc="509138606" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок417.jpg" crc="3834236341" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок418.jpg" crc="4007374284" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок419.jpg" crc="3811744886" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок420.jpg" crc="188384513" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок421.jpg" crc="4111495647" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок428.jpg" crc="4112873250" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок429.jpg" crc="497708421" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок430.jpg" crc="4051701803" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок431.jpg" crc="4003472589" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок432.jpg" crc="3926357482" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок433.jpg" crc="3937390219" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок435.jpg" crc="42341749" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок436.jpg" crc="509405830" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок434.jpg" crc="515126742" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок424.jpg" crc="3868675542" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок425.jpg" crc="238310790" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+    <file name="снимок427.jpg" crc="3929197385" seo="true" ref="clothes">
+      <caption webpage="clothes" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3848530787" seo="true" mt="1506952514910" redirect="true"/>
+  <file name="kitchen.html" crc="325347061" seo="true" mt="1506952488393" redirect="true"/>
+  <file name="holidays.html" crc="4089590121" seo="true" mt="1506952488393" redirect="true"/>
+  <file name="cleaning.html" crc="3857082527" seo="true" mt="1506952488393" redirect="true"/>
+  <file name="cars.html" crc="99456046" seo="true" mt="1506952488393" redirect="true"/>
+  <file name="journey.html" crc="165024710" seo="true" mt="1506952488393" redirect="true"/>
+  <file name="clothes.html" crc="4273937212" seo="true" mt="1506952488393" redirect="true"/>
+  <file name="contacts.html" crc="4103417270" seo="true" mt="1506952547841" redirect="true"/>
+  <file name="about.html" crc="3886815473" seo="true" mt="1506952488393" redirect="true"/>
+</manifest>
